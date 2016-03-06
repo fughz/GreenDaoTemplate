@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<template
+    format="5"
+    revision="3"
+    name="GreenDao"
+    description="Creates GreenDao Classes"
+    minApi="7"
+    minBuildApi="8">
+
+    <category value="Other" />
+
+    <globals file="globals.xml.ftl" />
+    <execute file="recipe.xml.ftl" />
+
+</template>
